@@ -9,3 +9,4 @@
 [16 - 3Sum Closest](https://github.com/ahlee-shawn/FullTimeLeetCode/blob/master/16.py)<br/>
 [18 - 4Sum](https://github.com/ahlee-shawn/FullTimeLeetCode/blob/master/18.py)<br/>
 [31 - Next Permutation](https://github.com/ahlee-shawn/FullTimeLeetCode/blob/master/31.py)<br/>
+[42 - Trapping Rain Water](https://github.com/ahlee-shawn/FullTimeLeetCode/blob/master/42.py)<br/>
