@@ -11,5 +11,6 @@
 [31 - Next Permutation](https://github.com/ahlee-shawn/FullTimeLeetCode/blob/master/31.py)<br/>
 [41 - First Missing Positive](https://github.com/ahlee-shawn/FullTimeLeetCode/blob/master/41.py)<br/>
 [42 - Trapping Rain Water](https://github.com/ahlee-shawn/FullTimeLeetCode/blob/master/42.py)<br/>
+[48 - Rotate Image](https://github.com/ahlee-shawn/FullTimeLeetCode/blob/master/48.py)<br/>
 [84 - Largest Rectangle in Histogram](https://github.com/ahlee-shawn/FullTimeLeetCode/blob/master/84.py)<br/>
 [85 - Maximal Rectangle](https://github.com/ahlee-shawn/FullTimeLeetCode/blob/master/85.py)<br/>
