@@ -9,6 +9,7 @@
 [16 - 3Sum Closest](https://github.com/ahlee-shawn/FullTimeLeetCode/blob/master/16.py)<br/>
 [18 - 4Sum](https://github.com/ahlee-shawn/FullTimeLeetCode/blob/master/18.py)<br/>
 [31 - Next Permutation](https://github.com/ahlee-shawn/FullTimeLeetCode/blob/master/31.py)<br/>
+[41 - First Missing Positive](https://github.com/ahlee-shawn/FullTimeLeetCode/blob/master/41.py)<br/>
 [42 - Trapping Rain Water](https://github.com/ahlee-shawn/FullTimeLeetCode/blob/master/42.py)<br/>
 [84 - Largest Rectangle in Histogram](https://github.com/ahlee-shawn/FullTimeLeetCode/blob/master/84.py)<br/>
 [85 - Maximal Rectangle](https://github.com/ahlee-shawn/FullTimeLeetCode/blob/master/85.py)<br/>
