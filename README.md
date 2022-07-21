@@ -17,3 +17,4 @@
 [73 - Set Matrix Zeroes](https://github.com/ahlee-shawn/FullTimeLeetCode/blob/master/73.py)<br/>
 [84 - Largest Rectangle in Histogram](https://github.com/ahlee-shawn/FullTimeLeetCode/blob/master/84.py)<br/>
 [85 - Maximal Rectangle](https://github.com/ahlee-shawn/FullTimeLeetCode/blob/master/85.py)<br/>
+[118 - Pascal's Triangle](https://github.com/ahlee-shawn/FullTimeLeetCode/blob/master/118.py)<br/>
